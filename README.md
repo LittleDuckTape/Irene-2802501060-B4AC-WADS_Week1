@@ -26,7 +26,7 @@ In conclusion, all developers must understand how web application security is im
 ## Images
 
 ### SQL Injection Example
-![SQL Injection](https://upload.wikimedia.org/wikipedia/commons/3/3f/Sql_injection.png)
+![SQL Injection Example](images/sql-injection-infographic.png)
 
 ### XSS Attack Flow
-![XSS Attack](https://upload.wikimedia.org/wikipedia/commons/6/6e/Cross-site_scripting.svg)
+![XSS Attack Flow](images/xss-attack.png)
