@@ -31,4 +31,4 @@ In conclusion, all developers must understand how web application security is im
 ### XSS Attack Flow
 ![XSS Attack Flow](images/xss-attack.png)
 
-<!-- testing branch commit -->
+<!-- merged feature and testing commits -->
