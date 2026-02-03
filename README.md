@@ -19,8 +19,14 @@ Developers should follow practices like frequent security testing, software upda
 In conclusion, all developers must understand how web application security is important and why. Proper security is done by identifying common threats and applying proper security measures.
 
 **Reference:**
-- Cloudflare Learning - Web Application Security
+- Cloudflare Learning - Web Application Security (https://www.cloudflare.com/learning/security/what-is-web-application-security/)
 
 ---
 
 ## Images
+
+### SQL Injection Example
+![SQL Injection] (https://upload.wikimedia.org/wikipedia/commons/3/3f/Sql_injection.png)
+
+### XSS Attack Flow
+![XSS Attack] (https://upload.wikimedia.org/wikipedia/commons/6/6e/Cross-site_scripting.svg)
